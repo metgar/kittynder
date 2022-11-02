@@ -1,0 +1,9 @@
+.results {
+  margin-bottom: 32px;
+  width: 200px;
+}
+
+.row {
+  justify-content: space-between;
+  display: flex;
+}

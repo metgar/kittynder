@@ -1,0 +1,37 @@
+.responsive {
+  border-radius: 25px;
+  max-height: 300px;
+  width: auto;
+  max-width: 100%;
+}
+
+.info {
+  width: 200px;
+  justify-content: space-between;
+
+}
+
+.row {
+  justify-content: space-between;
+  display: flex;
+}
+
+.actions {
+  width: 200px;
+  justify-content: space-between;
+  display: flex;
+  margin: 16px 0 32px 0;
+}
+
+.viewWrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.imageWrapper {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
