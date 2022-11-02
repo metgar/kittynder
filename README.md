@@ -1,11 +1,11 @@
 # KITTYNDER
 
 ## Project
-Simple Tinder-like app for cats
+Simple Tinder-like app for cats.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup
-You need to get a valid API key from [https://thecatapi.com/](https://thecatapi.com/) and put it in .env (or .env.local) properties file.
+You need to get a valid API key from [https://thecatapi.com/](https://thecatapi.com/) and put it in .env (or .env.local) properties file.\
 The key to use is already defined but commented.
 
 ## Available Scripts
